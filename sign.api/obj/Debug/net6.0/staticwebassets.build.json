@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4snQui7zlSaXUwsfwwd1LaETJB3t2t7QK5P8JV2HAgA=",
+  "Source": "sign.api",
+  "BasePath": "_content/sign.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

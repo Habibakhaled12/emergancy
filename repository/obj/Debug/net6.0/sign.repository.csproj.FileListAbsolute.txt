@@ -1,0 +1,15 @@
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\repository\bin\Debug\net6.0\sign.repository.deps.json
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\repository\bin\Debug\net6.0\sign.repository.dll
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\repository\bin\Debug\net6.0\sign.repository.pdb
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\repository\bin\Debug\net6.0\sign.core.dll
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\repository\bin\Debug\net6.0\sign.core.pdb
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\repository\obj\Debug\net6.0\sign.repository.csproj.AssemblyReference.cache
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\repository\obj\Debug\net6.0\sign.repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\repository\obj\Debug\net6.0\sign.repository.AssemblyInfoInputs.cache
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\repository\obj\Debug\net6.0\sign.repository.AssemblyInfo.cs
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\repository\obj\Debug\net6.0\sign.repository.csproj.CoreCompileInputs.cache
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\repository\obj\Debug\net6.0\sign.repository.csproj.CopyComplete
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\repository\obj\Debug\net6.0\sign.repository.dll
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\repository\obj\Debug\net6.0\refint\sign.repository.dll
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\repository\obj\Debug\net6.0\sign.repository.pdb
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\repository\obj\Debug\net6.0\ref\sign.repository.dll

@@ -1,0 +1,11 @@
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\sign.core\bin\Debug\net6.0\sign.core.deps.json
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\sign.core\bin\Debug\net6.0\sign.core.dll
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\sign.core\bin\Debug\net6.0\sign.core.pdb
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\sign.core\obj\Debug\net6.0\sign.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\sign.core\obj\Debug\net6.0\sign.core.AssemblyInfoInputs.cache
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\sign.core\obj\Debug\net6.0\sign.core.AssemblyInfo.cs
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\sign.core\obj\Debug\net6.0\sign.core.csproj.CoreCompileInputs.cache
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\sign.core\obj\Debug\net6.0\sign.core.dll
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\sign.core\obj\Debug\net6.0\refint\sign.core.dll
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\sign.core\obj\Debug\net6.0\sign.core.pdb
+D:\back\03 Object Oriented Programing\Session 01\Assignment\sign.api\sign.core\obj\Debug\net6.0\ref\sign.core.dll
